@@ -19,9 +19,6 @@ p {
 .container1 , .container2 {
     margin: 20px;
 }
-.red {
-    background-color: "red";
-}
-.normal {
-    background-color: "red";
+.game button{
+    background-color: "green";
 }
